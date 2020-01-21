@@ -1,6 +1,6 @@
 # gitTraining
 
-this readme file was added after the following:
+this readme file was added after the following:\n
   created a remote repo here
   initiated a local repo on the laptop
     "git init"
