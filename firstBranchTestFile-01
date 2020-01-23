@@ -1,0 +1,5 @@
+- this file was created in the firstBranch branch
+
+- it will be commited only to the firstBranch branch and not in the master branch
+
+- the firstBranch will then be merged into the feature-01 branch
